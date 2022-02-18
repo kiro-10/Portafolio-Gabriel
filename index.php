@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,9 +8,11 @@
 </head>
 <body>
     
+<?php include('partials/menu.php'); ?>
 
+<h1>Hola</h1>
 
-
+<a href="">Subtitulo</a>
 
 <?php include('partials/footer.php');?>
 </body>
